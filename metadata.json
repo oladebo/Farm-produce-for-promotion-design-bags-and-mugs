@@ -1,0 +1,5 @@
+{
+  "name": "Mockup Magic AI",
+  "description": "An AI-powered application to generate product mockups. Either upload your own logo or generate a new design with AI, then see it instantly on products like t-shirts and mugs.",
+  "requestFramePermissions": []
+}
